@@ -1,1 +1,2 @@
-Completed projects for the 2024/25 Winter Semester HPI course 'Applied Probabilistic Machine Learning', Group F
+Completed projects for the 2024/25 Winter Semester HPI course 'Applied Probabilistic Machine Learning', Group F    
+For reference purposes only. Do not plagiarize this material and do not refer to it for completion of assignments.    
