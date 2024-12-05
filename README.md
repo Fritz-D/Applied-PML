@@ -1,0 +1,1 @@
+Projects for the 2024/25 Winter Semester HPI course 'Applied Probabilistic Machine Learning', Group F
